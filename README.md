@@ -1,2 +1,2 @@
-# convert_base64_string_to_file
+# Application to Convert base64 string to File
 Convert base64 string to file.
